@@ -1,0 +1,414 @@
+.everything {
+    color:lightsalmon;
+}
+.line {
+    position:relative;
+    border:none;
+    color:lightsalmon;
+    background-color:lightsalmon;
+    height:1px;
+}
+.catalog {
+    margin-left:30px;
+    width:90px;
+}
+.catalog:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.delAndPaym {
+    margin-left:120px;
+    margin-top:-18px;
+    width:180px;
+}
+.delAndPaym:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.feedback {
+    margin-left:300px;
+    margin-top:-18px;
+    width:90px;
+}
+.feedback:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.flowInPet {
+    margin-left:420px;
+    margin-top:-120px;
+}
+.specOff {
+    margin-left:540px;
+    margin-top:-36px;
+    width:120px;
+}
+.specOff:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.contact {
+    margin-left:720px;
+    margin-top:-18px;
+    width:90px;
+}
+.contact:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.basket {
+    margin-left:840px;
+    margin-top:-18px;
+    width:90px;
+}
+.basket:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.bouquet {
+    width:300px;
+    margin-left:30px;
+    margin-top:30px;
+}
+.authBouqInPet {
+    font-size:xx-large;
+}
+.orFreshBouq {
+    margin-top:30px;
+}
+.viewCat {
+    margin-top:30px;
+    background-color:lightsalmon;
+    color:whitesmoke;
+    border-radius:10px;
+    border:none;
+    width:130px;
+    height:30px;
+}
+.viewCat:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.leftPhoto {
+    margin-left:360px;
+    margin-top:-180px;
+}
+.rightPhoto {
+    margin-left:660px;
+    margin-top:-330px;
+}
+.fastDel {
+    margin-left:80px;
+    margin-top:-51px;
+}
+.alwFreshFlow {
+    margin-left:360px;
+    margin-top:-51px;
+    width:300px;
+}
+.sendFlowPhot {
+    margin-left:630px;
+    margin-top:-90px;
+    width:300px;
+}
+.sending {
+    margin-left:21px;
+}
+.popBouq {
+    text-align:center;
+}
+.softness {
+    width:300px;
+    margin-left:210px;
+}
+.elBouq {
+    margin-top:30px;
+}
+.softnBouq {
+    margin-left:510px;
+    margin-top:-270px;
+}
+.leftArr {
+    margin-left:420px;
+}
+.arrowhead:hover {
+    scale:1.5;
+}
+.rightArr {
+    margin-left:480px;
+    margin-top:-21px;
+}
+.boom:hover {
+    scale:1.5;
+}
+.image {
+    margin-left:30px;
+}
+.weddBouq:hover {
+    scale:1.5;
+}
+.pionBouq:hover {
+    scale:1.5;
+}
+.choosBouq:hover {
+    scale:1.5;
+}
+.discount {
+    background-color:lightsalmon;
+    color:whitesmoke;
+    margin-left:30px;
+    width:825px;
+}
+.promInp {
+    width:360px;
+    margin-left:30px;
+    padding-top:30px;
+}
+.rebate {
+    font-size:xx-large;
+}
+.resDisc {
+    margin-top:30px;
+}
+.picture {
+    margin-left:420px;
+    margin-top:-188px;
+}
+.step {
+    text-align:center;
+}
+.order {
+    text-align:center;
+    margin-left:30px;
+    width:210px;
+}
+.choosLikBouq {
+    margin-top:12px;
+}
+.detCorr {
+    text-align:center;
+    margin-left:270px;
+    margin-top:-131px;
+    width:210px;
+}
+.payment {
+    text-align:center;
+    margin-left:495px;
+    margin-top:-131px;
+    width:210px;
+}
+.delivery {
+    text-align:center;
+    margin-left:720px;
+    margin-top:-120px;
+    width:210px;
+}
+.response {
+    text-align:center;
+    border:1px solid lightsalmon;
+    margin-top:30px;
+    height:210px;
+}
+.marina {
+    width:300px;
+}
+.leftName {
+    margin-top:30px;
+}
+.tatyana {
+    width:300px;
+    margin-left:345px;
+    margin-top:-102px;
+}
+.centName {
+    margin-top:12px;
+}
+.olga {
+    width:300px;
+    margin-left:645px;
+    margin-top:-102px;
+}
+.rightName {
+    margin-top:12px;
+}
+.expectation {
+    margin-top:30px;
+    width:945px;
+}
+.flower {
+    margin-left:30px;
+    margin-top:12px;
+}
+.bottSide {
+    background-color:lightsalmon;
+    color:whitesmoke;
+    height:80px;
+}
+.catalogue {
+    margin-left:210px;
+    margin-top:-30px;
+    width:90px;
+}
+.catalogue:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.shipment {
+    margin-left:300px;
+    margin-top:-18px;
+    width:180px;
+}
+.shipment:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.comment {
+    margin-left:480px;
+    margin-top:-18px;
+    width:90px;
+}
+.comment:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.offer {
+    margin-left:585px;
+    margin-top:-18px;
+    width:120px;
+}
+.offer:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+.touch {
+    margin-left:765px;
+    margin-top:-18px;
+    width:90px;
+}
+.touch:hover {
+    color:blueviolet;
+    background-color:aquamarine;
+}
+@media (max-width:510px) {
+    .everything {
+        text-align:center;
+    }
+    .flowInPet {
+        margin-left:390px;
+    }
+    .specOff {
+        margin-top:12px;
+        margin-left:51px;
+    }
+    .contact {
+        margin-left:210px;
+    }
+    .basket {
+        margin-left:330px;
+    }
+    .leftPhoto {
+        margin-top:30px;
+        margin-left:-120px;
+    }
+    .rightPhoto {
+        margin-top:30px;
+        margin-left:-120px;
+    }
+    .shipping {
+        position:absolute;
+    }
+    .fastDel {
+        margin-top:30px;
+    }
+    .freshFlow {
+        position:absolute;
+        margin-left:21px;
+        margin-top:30px;
+    }
+    .alwFreshFlow {
+        margin-top:30px;
+        margin-left:30px;
+    }
+    .dispatch {
+        position:absolute;
+    }
+    .sendFlowPhot {
+        margin-top:12px;
+        margin-left:30px;
+    }
+    .softness {
+        margin-left:120px;
+    }
+    .softnBouq {
+        margin-left:30px;
+        margin-top:30px;
+    }
+    .leftArr {
+        margin-left:-120px;
+    }
+    .rightArr {
+        margin-left:120px;
+    }
+    .discount {
+        width:420px;
+    }
+    .picture {
+        position:relative;
+        margin-top:30px;
+        margin-left:-9px;
+    }
+    .imagery {
+        width:423px;
+        margin-left:9px;
+        margin-top:30px;
+    }
+    .payment {
+        margin-top:10px;
+        margin-left:30px;
+    }
+    .delivery {
+        margin-left:270px;
+    }
+    .response {
+        height:510px;
+    }
+    .marina {
+        margin-left:90px;
+    }
+    .tatyana {
+        margin-top:30px;
+        margin-left:90px;
+    }
+    .olga {
+        margin-top:30px;
+        margin-left:90px;
+    }
+    .expectation {
+        scale:0.5;
+        margin-left:-234px;
+        margin-top:-90px;
+    }
+    .bottSide {
+        margin-top:-90px;
+        height:90px;
+    }
+    .flower {
+        margin-left:-300px;
+    }
+    .catalogue {
+        margin-left:180px;
+    }
+    .shipment {
+        margin-left:270px;
+    }
+    .comment {
+        margin-top:12px;
+        margin-left:30px;
+    }
+    .offer {
+        margin-left:180px;
+    }
+    .touch {
+        margin-left:330px;
+    }
+}
